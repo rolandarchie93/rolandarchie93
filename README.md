@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-<!--
+<!-- My name is Roland and I am currently in the process of becoming a DevOps/DevSecOps Engineer.
 **rolandarchie93/rolandarchie93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++Find out more about me and feel free to connect with me here:
 
 Here are some ideas to get you started:
-
+https://www.linkedin.com/in/roland-archie-136b97119/
+https://medium.com/@rolandarchie93
+rolandarchie93@gmail.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
