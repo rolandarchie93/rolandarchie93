@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Roland and I am currently in the process of becoming a DevOps/DevSecOps Engineer.
+My name is Roland and I am currently in the process of becoming a DevOps Engineer.
 
 
 +Find out more about me and feel free to connect with me here:
